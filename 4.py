@@ -101,26 +101,5 @@ def fannkuch(n):
 
         checksum, maximum = sum(checksums), max(maximums)
         print("{0}\nPfannkuchen({1}) = {2}".format(checksum, n, maximum))
-
 if __name__ == "__main__":
     fannkuch(int(argv[1]))
-
-# notes, command-line, and program output
-# NOTES:
-# 64-bit Ubuntu quad core
-# Python 3.7.1
-#
-#
-# Fri, 23 Nov 2018 22:35:15 GMT
-#
-# MAKE:
-# mv fannkuchredux.python3-4.python3 fannkuchredux.python3-4.py
-#
-# 0.11s to complete and log all make actions
-#
-# COMMAND LINE:
-# /opt/src/Python-3.7.1/bin/python3 -OO fannkuchredux.python3-4.py 12
-#
-# PROGRAM OUTPUT:
-# 3968050
-# Pfannkuchen(12) = 65
