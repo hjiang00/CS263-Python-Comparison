@@ -16,3 +16,7 @@ Progress:
 
 
   Week 4:
+  
+    1. VMware setting
+    2. BCC
+   
