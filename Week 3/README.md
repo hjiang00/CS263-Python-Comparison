@@ -2,8 +2,8 @@
 
 ## This is final project for CS263
 
-# Progress:
-  # Week 3:
+## Progress:
+  ## Week 3:
 	1, configuration
 	2, simple example try
 	3, tool try
