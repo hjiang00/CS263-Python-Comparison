@@ -4,6 +4,13 @@
 
 # Progress:
   # Week 3:
-	Got idea about the project, start working.
+	1, configuration
+	2, simple example try
+	3, tool try
+  		timeit
+  		tracemalloc
+  		cProfile
+  		memory_profiler
+  		based on Cpython
 
     
