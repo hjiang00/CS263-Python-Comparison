@@ -1,0 +1,51 @@
+运行time实用工具：
+$ time -p python timing_functions.py
+输出结果为：
+Total time running random_sort: 1.3931210041 seconds
+real 1.49
+user 1.40
+sys 0.08
+第一行来自预定义的装饰器，其他三行为：
+    real表示的是执行脚本的总时间
+    user表示的是执行脚本消耗的CPU时间。
+    sys表示的是执行内核函数消耗的时间。
+
+
+
+import time
+from functools import wraps
+def fn_timer(function):
+  @wraps(function)
+  def function_timer(*args, **kwargs):
+    t0 = time.time()
+    result = function(*args, **kwargs)
+    t1 = time.time()
+    print ("Total time running %s: %s seconds" %
+        (function.func_name, str(t1-t0))
+        )
+    return result
+  return function_timer
+接着，将这个装饰器添加到需要测量的函数之前，如下所示：
+@fn_timer
+
+
+
+time1 = time.clock()
+sth...
+time2 = time.clock()
+print time2 - time1
+
+
+
+Mem
+from guppy import hpy
+hxx = hpy()
+heap = hxx.heap()
+byrcs = hxx.heap().byrcs
+在主程序下增加：
+print(heap)
+
+
+
+@profile
+python -m memory_profiler x.py
