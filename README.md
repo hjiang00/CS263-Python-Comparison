@@ -44,5 +44,5 @@
 	3. Use psutil to test the Elapsed time, memory usage, CPU time, CPU_load.
 	4. Use memory_profile to test memory.
 	5. Use cProfile to get time.
-
+	6. Start with Cpython, pypy, and then the Jython, IronPython and Cython.
        
