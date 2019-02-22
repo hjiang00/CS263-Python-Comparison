@@ -10,9 +10,9 @@ def s():
 	t = time.time()
 	PERCPU_start=psutil.cpu_times(percpu=True)
 
-	p = subprocess.Popen('pypy 1.py 100', shell = True, creationflags =0)
-	#p = subprocess.Popen('python 3.py 100', shell = True, creationflags =0)
-	pt = subprocess.Popen('time -p pypy 1.py 100', shell = True, creationflags =0)
+	#p = subprocess.Popen('pypy 1.py 100', shell = True, creationflags =0)
+	p = subprocess.Popen('python 3.py 100', shell = True, creationflags =0)
+	pt = subprocess.Popen('time -p python 3.py 100', shell = True, creationflags =0)
 	while p.poll() is None:
 		try:
 			cpu_time = psutil.Process(p.pid).cpu_times()
