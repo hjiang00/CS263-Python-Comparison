@@ -28,11 +28,11 @@ def test_in_python():
 	print 'Real time: ', time.time() - start_time
 	print 'Memory usage: ', memory_useinfo, 'Byte'
 	#print 'Memory usage: ', str(round(memory_useinfo / 1024, 0)), 'KB'
-  
+
 	#Thread2:
 	#sub_thread_time = subprocess.Popen("time TIMEFORMAT=$'Real_time %2R User_time %2U System_time %2S' python fibonacci3.py 100", shell = True, creationflags =0)
 	#sub_thread_time = subprocess.Popen("/usr/bin/time -lp python fibonacci3.py 100", shell = True, creationflags =0)
 
 
 if __name__ == '__main__':
-	test_in_python()
+	test_in_python()     
