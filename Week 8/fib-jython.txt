@@ -1,0 +1,21 @@
+System time:  0.500480416
+User time:  7.888900096
+CPU time:  8.389380512
+Real time:  5.89716506004
+Memory usage:  159088640 Byte
+
+
+System time:  0.447902912
+User time:  8.695226368
+CPU time:  9.14312928
+Real time:  5.99411797523
+Memory usage:  197185536 Byte
+
+
+System time:  0.456824704
+User time:  9.273156608
+CPU time:  9.729981312
+Real time:  6.37642908096
+Memory usage:  205201408 Byte
+
+
