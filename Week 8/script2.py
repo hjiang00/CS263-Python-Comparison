@@ -6,13 +6,14 @@ from memory_profiler import profile
 
 #@profile
 def test_in_python(input):
-	sub_thread_time = subprocess.Popen("/usr/bin/time -lp python fibonacci3.py " + input + " >> output.txt", shell = True, creationflags =0)
+	log = open('output-fib-jython-terminal.txt', 'a')
+	sub_thread_time = subprocess.Popen("/usr/bin/time -lp jython fibonacci3.py " + input, shell = True, creationflags =0, stdout = log, stderr = log)
 	#Mem info
 	memory_useinfo = 0
 	#Basic time
 	start_time = time.time()
 	#Thread1:
-	sub_thread = subprocess.Popen('python fibonacci3.py ' + input, shell = True, creationflags = 0)
+	sub_thread = subprocess.Popen('jython fibonacci3.py ' + input, shell = True, creationflags = 0)
 	#Log cpu_time, memory_useinfo
 	while sub_thread.poll() is None:
 		try:
@@ -28,7 +29,7 @@ def test_in_python(input):
 	print 'Real time: ', time.time() - start_time
 	print 'Memory usage: ', memory_useinfo, 'Byte'
 	#print 'Memory usage: ', str(round(memory_useinfo / 1024, 0)), 'KB'
-	print "\n"	
+	print "\n"
 
 	#Thread2:
 	#sub_thread_time = subprocess.Popen("time TIMEFORMAT=$'Real_time %2R User_time %2U System_time %2S' python fibonacci3.py 100", shell = True, creationflags =0)
@@ -37,5 +38,10 @@ def test_in_python(input):
 
 if __name__ == '__main__':
 	test_in_python("10")
-    	test_in_python("50")
-    	test_in_python("100")
+	test_in_python("50")
+	test_in_python("100")
+	test_in_python("200")
+	test_in_python("500")
+	test_in_python("1000")
+	test_in_python("5000")
+	test_in_python("10000")
