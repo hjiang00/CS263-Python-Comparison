@@ -50,7 +50,7 @@ WARNING: All illegal access operations will be denied in a future release
 real         6.50
 user        14.33
 sys          0.71
-1213800448  maximum resident set size
+ 1213800448  maximum resident set size
          0  average shared memory size
          0  average unshared data size
          0  average unshared stack size
@@ -72,7 +72,7 @@ WARNING: All illegal access operations will be denied in a future release
 real         8.18
 user        17.26
 sys          0.87
-1535627264  maximum resident set size
+ 1535627264  maximum resident set size
          0  average shared memory size
          0  average unshared data size
          0  average unshared stack size
@@ -94,7 +94,7 @@ WARNING: All illegal access operations will be denied in a future release
 real         9.04
 user        19.45
 sys          0.96
-1789210624  maximum resident set size
+ 1789210624  maximum resident set size
          0  average shared memory size
          0  average unshared data size
          0  average unshared stack size
@@ -116,7 +116,7 @@ WARNING: All illegal access operations will be denied in a future release
 real         9.83
 user        21.56
 sys          0.95
-1763295232  maximum resident set size
+ 1763295232  maximum resident set size
          0  average shared memory size
          0  average unshared data size
          0  average unshared stack size
@@ -138,7 +138,7 @@ WARNING: All illegal access operations will be denied in a future release
 real        11.85
 user        25.14
 sys          1.08
-2162982912  maximum resident set size
+ 2162982912  maximum resident set size
          0  average shared memory size
          0  average unshared data size
          0  average unshared stack size
@@ -160,7 +160,7 @@ WARNING: All illegal access operations will be denied in a future release
 real        13.23
 user        27.65
 sys          1.34
-2782732288  maximum resident set size
+ 2782732288  maximum resident set size
          0  average shared memory size
          0  average unshared data size
          0  average unshared stack size
@@ -182,7 +182,7 @@ WARNING: All illegal access operations will be denied in a future release
 real        13.70
 user        28.70
 sys          1.28
-2623037440  maximum resident set size
+ 2623037440  maximum resident set size
          0  average shared memory size
          0  average unshared data size
          0  average unshared stack size
@@ -204,7 +204,7 @@ WARNING: All illegal access operations will be denied in a future release
 real        15.48
 user        32.44
 sys          1.64
-3048185856  maximum resident set size
+ 3048185856  maximum resident set size
          0  average shared memory size
          0  average unshared data size
          0  average unshared stack size
