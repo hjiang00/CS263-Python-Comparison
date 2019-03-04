@@ -1,0 +1,120 @@
+agggtaaa|tttaccct 128
+[cgt]gggtaaa|tttaccc[acg] 0
+a[act]ggtaaa|tttacc[agt]t 0
+ag[act]gtaaa|tttac[agt]ct 0
+agg[act]taaa|ttta[agt]cct 128
+aggg[acg]aaa|ttt[cgt]ccct 0
+agggt[cgt]aa|tt[acg]accct 0
+agggta[cgt]a|t[acg]taccct 0
+agggtaa[cgt]|[acg]ttaccct 256
+
+1280000
+1280000
+1708544
+agggtaaa|tttaccct 256
+[cgt]gggtaaa|tttaccc[acg] 0
+a[act]ggtaaa|tttacc[agt]t 0
+ag[act]gtaaa|tttac[agt]ct 0
+agg[act]taaa|ttta[agt]cct 256
+aggg[acg]aaa|ttt[cgt]ccct 0
+agggt[cgt]aa|tt[acg]accct 0
+agggta[cgt]a|t[acg]taccct 0
+agggtaa[cgt]|[acg]ttaccct 512
+
+2560000
+2560000
+3417088
+agggtaaa|tttaccct 512
+[cgt]gggtaaa|tttaccc[acg] 0
+a[act]ggtaaa|tttacc[agt]t 0
+ag[act]gtaaa|tttac[agt]ct 0
+agg[act]taaa|ttta[agt]cct 512
+aggg[acg]aaa|ttt[cgt]ccct 0
+agggt[cgt]aa|tt[acg]accct 0
+agggta[cgt]a|t[acg]taccct 0
+agggtaa[cgt]|[acg]ttaccct 1024
+
+5120000
+5120000
+6834176
+agggtaaa|tttaccct 1024
+[cgt]gggtaaa|tttaccc[acg] 0
+a[act]ggtaaa|tttacc[agt]t 0
+ag[act]gtaaa|tttac[agt]ct 0
+agg[act]taaa|ttta[agt]cct 1024
+aggg[acg]aaa|ttt[cgt]ccct 0
+agggt[cgt]aa|tt[acg]accct 0
+agggta[cgt]a|t[acg]taccct 0
+agggtaa[cgt]|[acg]ttaccct 2048
+
+10240000
+10240000
+13668352
+agggtaaa|tttaccct 2048
+[cgt]gggtaaa|tttaccc[acg] 0
+a[act]ggtaaa|tttacc[agt]t 0
+ag[act]gtaaa|tttac[agt]ct 0
+agg[act]taaa|ttta[agt]cct 2048
+aggg[acg]aaa|ttt[cgt]ccct 0
+agggt[cgt]aa|tt[acg]accct 0
+agggta[cgt]a|t[acg]taccct 0
+agggtaa[cgt]|[acg]ttaccct 4096
+
+20480000
+20480000
+27336704
+agggtaaa|tttaccct 4096
+[cgt]gggtaaa|tttaccc[acg] 0
+a[act]ggtaaa|tttacc[agt]t 0
+ag[act]gtaaa|tttac[agt]ct 0
+agg[act]taaa|ttta[agt]cct 4096
+aggg[acg]aaa|ttt[cgt]ccct 0
+agggt[cgt]aa|tt[acg]accct 0
+agggta[cgt]a|t[acg]taccct 0
+agggtaa[cgt]|[acg]ttaccct 8192
+
+40960000
+40960000
+54673408
+System time:  0.002538125
+User time:  0.001762077
+CPU time:  0.004300202
+Real time:  0.359872817993
+Memory usage:  1155072 Byte
+
+
+System time:  0.002821246
+User time:  0.001645381
+CPU time:  0.004466627
+Real time:  0.625611066818
+Memory usage:  1167360 Byte
+
+
+System time:  0.00256352
+User time:  0.001643496
+CPU time:  0.004207016
+Real time:  1.27435708046
+Memory usage:  1155072 Byte
+
+
+System time:  0.001883588
+User time:  0.001590365
+CPU time:  0.003473953
+Real time:  2.57076191902
+Memory usage:  1171456 Byte
+
+
+System time:  0.001827987
+User time:  0.001533357
+CPU time:  0.003361344
+Real time:  4.88459992409
+Memory usage:  1134592 Byte
+
+
+System time:  0.001883681
+User time:  0.001612644
+CPU time:  0.003496325
+Real time:  9.9285929203
+Memory usage:  1146880 Byte
+
+

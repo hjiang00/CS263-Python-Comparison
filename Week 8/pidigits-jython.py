@@ -29,7 +29,7 @@ while(1):
             ns = ns*10 + t
             i += 1
             if i % 10 == 0:
-                print ('%010d\t:%d' % (ns, i))
+                #print ('%010d\t:%d' % (ns, i))
                 ns = 0
             if i >= N:
                 break

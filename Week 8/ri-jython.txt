@@ -1,0 +1,54 @@
+10
+finished.
+30
+finished.
+50
+finished.
+70
+finished.
+90
+finished.
+110
+finished.
+System time:  0.402762272
+User time:  11.647702016
+CPU time:  12.050464288
+Real time:  5.34396600723
+Memory usage:  318783488 Byte
+
+
+System time:  0.42944064
+User time:  13.311958016
+CPU time:  13.741398656
+Real time:  7.03360104561
+Memory usage:  439623680 Byte
+
+
+System time:  0.421243808
+User time:  15.000024064
+CPU time:  15.421267872
+Real time:  9.35379290581
+Memory usage:  436580352 Byte
+
+
+System time:  0.516209984
+User time:  19.47871232
+CPU time:  19.994922304
+Real time:  12.7525291443
+Memory usage:  439574528 Byte
+
+
+System time:  0.527671296
+User time:  22.225616896
+CPU time:  22.753288192
+Real time:  15.5649869442
+Memory usage:  438624256 Byte
+
+
+System time:  0.501119168
+User time:  24.181262336
+CPU time:  24.682381504
+Real time:  17.6589331627
+Memory usage:  434503680 Byte
+
+

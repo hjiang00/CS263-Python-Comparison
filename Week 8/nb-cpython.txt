@@ -1,0 +1,54 @@
+-0.169075164
+-0.169079859
+-0.169075164
+-0.169087840
+-0.169075164
+-0.169096567
+-0.169075164
+-0.169093698
+-0.169075164
+-0.169090355
+-0.169075164
+-0.169080551
+System time:  0.022539852
+User time:  1.060819072
+CPU time:  1.083358924
+Real time:  1.08911895752
+Memory usage:  5271552 Byte
+
+
+System time:  0.026849532
+User time:  3.383310592
+CPU time:  3.410160124
+Real time:  3.42313504219
+Memory usage:  5263360 Byte
+
+
+System time:  0.02301711
+User time:  5.259089408
+CPU time:  5.282106518
+Real time:  5.28946995735
+Memory usage:  5181440 Byte
+
+
+System time:  0.026295856
+User time:  7.3230336
+CPU time:  7.349329456
+Real time:  7.35984706879
+Memory usage:  5308416 Byte
+
+
+System time:  0.026953516
+User time:  9.408269312
+CPU time:  9.435222828
+Real time:  9.44613194466
+Memory usage:  5292032 Byte
+
+
+System time:  0.02816746
+User time:  11.578789888
+CPU time:  11.606957348
+Real time:  11.6177461147
+Memory usage:  5246976 Byte
+
+

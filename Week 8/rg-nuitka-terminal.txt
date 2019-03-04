@@ -1,0 +1,180 @@
+agggtaaa|tttaccct 128
+[cgt]gggtaaa|tttaccc[acg] 0
+a[act]ggtaaa|tttacc[agt]t 0
+ag[act]gtaaa|tttac[agt]ct 0
+agg[act]taaa|ttta[agt]cct 128
+aggg[acg]aaa|ttt[cgt]ccct 0
+agggt[cgt]aa|tt[acg]accct 0
+agggta[cgt]a|t[acg]taccct 0
+agggtaa[cgt]|[acg]ttaccct 256
+
+1280000
+1280000
+1708544
+real         0.36
+user         0.31
+sys          0.03
+  28471296  maximum resident set size
+         0  average shared memory size
+         0  average unshared data size
+         0  average unshared stack size
+      7080  page reclaims
+         0  page faults
+         0  swaps
+         0  block input operations
+         0  block output operations
+         0  messages sent
+         0  messages received
+         0  signals received
+       158  voluntary context switches
+       422  involuntary context switches
+agggtaaa|tttaccct 256
+[cgt]gggtaaa|tttaccc[acg] 0
+a[act]ggtaaa|tttacc[agt]t 0
+ag[act]gtaaa|tttac[agt]ct 0
+agg[act]taaa|ttta[agt]cct 256
+aggg[acg]aaa|ttt[cgt]ccct 0
+agggt[cgt]aa|tt[acg]accct 0
+agggta[cgt]a|t[acg]taccct 0
+agggtaa[cgt]|[acg]ttaccct 512
+
+2560000
+2560000
+3417088
+real         0.62
+user         0.57
+sys          0.03
+  44179456  maximum resident set size
+         0  average shared memory size
+         0  average unshared data size
+         0  average unshared stack size
+     14121  page reclaims
+         0  page faults
+         0  swaps
+         0  block input operations
+         0  block output operations
+         0  messages sent
+         0  messages received
+         0  signals received
+        53  voluntary context switches
+       164  involuntary context switches
+agggtaaa|tttaccct 512
+[cgt]gggtaaa|tttaccc[acg] 0
+a[act]ggtaaa|tttacc[agt]t 0
+ag[act]gtaaa|tttac[agt]ct 0
+agg[act]taaa|ttta[agt]cct 512
+aggg[acg]aaa|ttt[cgt]ccct 0
+agggt[cgt]aa|tt[acg]accct 0
+agggta[cgt]a|t[acg]taccct 0
+agggtaa[cgt]|[acg]ttaccct 1024
+
+5120000
+5120000
+6834176
+real         1.26
+user         1.19
+sys          0.06
+  46276608  maximum resident set size
+         0  average shared memory size
+         0  average unshared data size
+         0  average unshared stack size
+     27342  page reclaims
+         0  page faults
+         0  swaps
+         0  block input operations
+         0  block output operations
+         0  messages sent
+         0  messages received
+         0  signals received
+        13  voluntary context switches
+      1136  involuntary context switches
+agggtaaa|tttaccct 1024
+[cgt]gggtaaa|tttaccc[acg] 0
+a[act]ggtaaa|tttacc[agt]t 0
+ag[act]gtaaa|tttac[agt]ct 0
+agg[act]taaa|ttta[agt]cct 1024
+aggg[acg]aaa|ttt[cgt]ccct 0
+agggt[cgt]aa|tt[acg]accct 0
+agggta[cgt]a|t[acg]taccct 0
+agggtaa[cgt]|[acg]ttaccct 2048
+
+10240000
+10240000
+13668352
+real         2.56
+user         2.44
+sys          0.10
+  76713984  maximum resident set size
+         0  average shared memory size
+         0  average unshared data size
+         0  average unshared stack size
+     58086  page reclaims
+         0  page faults
+         0  swaps
+         0  block input operations
+         0  block output operations
+         0  messages sent
+         0  messages received
+         0  signals received
+         1  voluntary context switches
+      2569  involuntary context switches
+agggtaaa|tttaccct 2048
+[cgt]gggtaaa|tttaccc[acg] 0
+a[act]ggtaaa|tttacc[agt]t 0
+ag[act]gtaaa|tttac[agt]ct 0
+agg[act]taaa|ttta[agt]cct 2048
+aggg[acg]aaa|ttt[cgt]ccct 0
+agggt[cgt]aa|tt[acg]accct 0
+agggta[cgt]a|t[acg]taccct 0
+agggtaa[cgt]|[acg]ttaccct 4096
+
+20480000
+20480000
+27336704
+real         4.87
+user         4.64
+sys          0.20
+ 152489984  maximum resident set size
+         0  average shared memory size
+         0  average unshared data size
+         0  average unshared stack size
+    125432  page reclaims
+         0  page faults
+         0  swaps
+         0  block input operations
+         0  block output operations
+         0  messages sent
+         0  messages received
+         0  signals received
+        22  voluntary context switches
+      3256  involuntary context switches
+agggtaaa|tttaccct 4096
+[cgt]gggtaaa|tttaccc[acg] 0
+a[act]ggtaaa|tttacc[agt]t 0
+ag[act]gtaaa|tttac[agt]ct 0
+agg[act]taaa|ttta[agt]cct 4096
+aggg[acg]aaa|ttt[cgt]ccct 0
+agggt[cgt]aa|tt[acg]accct 0
+agggta[cgt]a|t[acg]taccct 0
+agggtaa[cgt]|[acg]ttaccct 8192
+
+40960000
+40960000
+54673408
+real         9.94
+user         9.50
+sys          0.38
+ 270966784  maximum resident set size
+         0  average shared memory size
+         0  average unshared data size
+         0  average unshared stack size
+    254319  page reclaims
+         0  page faults
+         0  swaps
+         0  block input operations
+         0  block output operations
+         0  messages sent
+         0  messages received
+         0  signals received
+        22  voluntary context switches
+      5500  involuntary context switches

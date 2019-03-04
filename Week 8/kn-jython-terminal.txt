@@ -1,0 +1,220 @@
+WARNING: An illegal reflective access operation has occurred
+WARNING: Illegal reflective access by org.python.core.PySystemState (file:/Users/zhangzhicheng/jython2.7.0/jython.jar) to method java.io.Console.encoding()
+WARNING: Please consider reporting this to the maintainers of org.python.core.PySystemState
+WARNING: Use --illegal-access=warn to enable warnings of further illegal reflective access operations
+WARNING: All illegal access operations will be denied in a future release
+real         4.28
+user         8.85
+sys          0.46
+ 525479936  maximum resident set size
+         0  average shared memory size
+         0  average unshared data size
+         0  average unshared stack size
+    146660  page reclaims
+         0  page faults
+         0  swaps
+         0  block input operations
+         0  block output operations
+         0  messages sent
+         0  messages received
+         6  signals received
+       591  voluntary context switches
+     12892  involuntary context switches
+WARNING: An illegal reflective access operation has occurred
+WARNING: Illegal reflective access by org.python.core.PySystemState (file:/Users/zhangzhicheng/jython2.7.0/jython.jar) to method java.io.Console.encoding()
+WARNING: Please consider reporting this to the maintainers of org.python.core.PySystemState
+WARNING: Use --illegal-access=warn to enable warnings of further illegal reflective access operations
+WARNING: All illegal access operations will be denied in a future release
+real         5.28
+user        11.43
+sys          0.63
+ 971698176  maximum resident set size
+         0  average shared memory size
+         0  average unshared data size
+         0  average unshared stack size
+    252630  page reclaims
+       161  page faults
+         0  swaps
+         0  block input operations
+         0  block output operations
+         0  messages sent
+         0  messages received
+         5  signals received
+       343  voluntary context switches
+     13851  involuntary context switches
+WARNING: An illegal reflective access operation has occurred
+WARNING: Illegal reflective access by org.python.core.PySystemState (file:/Users/zhangzhicheng/jython2.7.0/jython.jar) to method java.io.Console.encoding()
+WARNING: Please consider reporting this to the maintainers of org.python.core.PySystemState
+WARNING: Use --illegal-access=warn to enable warnings of further illegal reflective access operations
+WARNING: All illegal access operations will be denied in a future release
+real         6.50
+user        14.33
+sys          0.71
+1213800448  maximum resident set size
+         0  average shared memory size
+         0  average unshared data size
+         0  average unshared stack size
+    311171  page reclaims
+         0  page faults
+         0  swaps
+         0  block input operations
+         0  block output operations
+         0  messages sent
+         0  messages received
+         6  signals received
+       129  voluntary context switches
+     12561  involuntary context switches
+WARNING: An illegal reflective access operation has occurred
+WARNING: Illegal reflective access by org.python.core.PySystemState (file:/Users/zhangzhicheng/jython2.7.0/jython.jar) to method java.io.Console.encoding()
+WARNING: Please consider reporting this to the maintainers of org.python.core.PySystemState
+WARNING: Use --illegal-access=warn to enable warnings of further illegal reflective access operations
+WARNING: All illegal access operations will be denied in a future release
+real         8.18
+user        17.26
+sys          0.87
+1535627264  maximum resident set size
+         0  average shared memory size
+         0  average unshared data size
+         0  average unshared stack size
+    388514  page reclaims
+       186  page faults
+         0  swaps
+         0  block input operations
+         0  block output operations
+         0  messages sent
+         0  messages received
+         5  signals received
+       320  voluntary context switches
+     15887  involuntary context switches
+WARNING: An illegal reflective access operation has occurred
+WARNING: Illegal reflective access by org.python.core.PySystemState (file:/Users/zhangzhicheng/jython2.7.0/jython.jar) to method java.io.Console.encoding()
+WARNING: Please consider reporting this to the maintainers of org.python.core.PySystemState
+WARNING: Use --illegal-access=warn to enable warnings of further illegal reflective access operations
+WARNING: All illegal access operations will be denied in a future release
+real         9.04
+user        19.45
+sys          0.96
+1789210624  maximum resident set size
+         0  average shared memory size
+         0  average unshared data size
+         0  average unshared stack size
+    449208  page reclaims
+       154  page faults
+         0  swaps
+         0  block input operations
+         0  block output operations
+         0  messages sent
+         0  messages received
+         7  signals received
+       437  voluntary context switches
+     15589  involuntary context switches
+WARNING: An illegal reflective access operation has occurred
+WARNING: Illegal reflective access by org.python.core.PySystemState (file:/Users/zhangzhicheng/jython2.7.0/jython.jar) to method java.io.Console.encoding()
+WARNING: Please consider reporting this to the maintainers of org.python.core.PySystemState
+WARNING: Use --illegal-access=warn to enable warnings of further illegal reflective access operations
+WARNING: All illegal access operations will be denied in a future release
+real         9.83
+user        21.56
+sys          0.95
+1763295232  maximum resident set size
+         0  average shared memory size
+         0  average unshared data size
+         0  average unshared stack size
+    450814  page reclaims
+       174  page faults
+         0  swaps
+         0  block input operations
+         0  block output operations
+         0  messages sent
+         0  messages received
+         8  signals received
+       201  voluntary context switches
+     15605  involuntary context switches
+WARNING: An illegal reflective access operation has occurred
+WARNING: Illegal reflective access by org.python.core.PySystemState (file:/Users/zhangzhicheng/jython2.7.0/jython.jar) to method java.io.Console.encoding()
+WARNING: Please consider reporting this to the maintainers of org.python.core.PySystemState
+WARNING: Use --illegal-access=warn to enable warnings of further illegal reflective access operations
+WARNING: All illegal access operations will be denied in a future release
+real        11.85
+user        25.14
+sys          1.08
+2162982912  maximum resident set size
+         0  average shared memory size
+         0  average unshared data size
+         0  average unshared stack size
+    548453  page reclaims
+       158  page faults
+         0  swaps
+         0  block input operations
+         0  block output operations
+         0  messages sent
+         0  messages received
+        10  signals received
+       334  voluntary context switches
+     15973  involuntary context switches
+WARNING: An illegal reflective access operation has occurred
+WARNING: Illegal reflective access by org.python.core.PySystemState (file:/Users/zhangzhicheng/jython2.7.0/jython.jar) to method java.io.Console.encoding()
+WARNING: Please consider reporting this to the maintainers of org.python.core.PySystemState
+WARNING: Use --illegal-access=warn to enable warnings of further illegal reflective access operations
+WARNING: All illegal access operations will be denied in a future release
+real        13.23
+user        27.65
+sys          1.34
+2782732288  maximum resident set size
+         0  average shared memory size
+         0  average unshared data size
+         0  average unshared stack size
+    701476  page reclaims
+       158  page faults
+         0  swaps
+         0  block input operations
+         0  block output operations
+         0  messages sent
+         0  messages received
+        10  signals received
+       413  voluntary context switches
+     18638  involuntary context switches
+WARNING: An illegal reflective access operation has occurred
+WARNING: Illegal reflective access by org.python.core.PySystemState (file:/Users/zhangzhicheng/jython2.7.0/jython.jar) to method java.io.Console.encoding()
+WARNING: Please consider reporting this to the maintainers of org.python.core.PySystemState
+WARNING: Use --illegal-access=warn to enable warnings of further illegal reflective access operations
+WARNING: All illegal access operations will be denied in a future release
+real        13.70
+user        28.70
+sys          1.28
+2623037440  maximum resident set size
+         0  average shared memory size
+         0  average unshared data size
+         0  average unshared stack size
+    670030  page reclaims
+       141  page faults
+         0  swaps
+         0  block input operations
+         0  block output operations
+         0  messages sent
+         0  messages received
+        10  signals received
+       427  voluntary context switches
+     17140  involuntary context switches
+WARNING: An illegal reflective access operation has occurred
+WARNING: Illegal reflective access by org.python.core.PySystemState (file:/Users/zhangzhicheng/jython2.7.0/jython.jar) to method java.io.Console.encoding()
+WARNING: Please consider reporting this to the maintainers of org.python.core.PySystemState
+WARNING: Use --illegal-access=warn to enable warnings of further illegal reflective access operations
+WARNING: All illegal access operations will be denied in a future release
+real        15.48
+user        32.44
+sys          1.64
+3048185856  maximum resident set size
+         0  average shared memory size
+         0  average unshared data size
+         0  average unshared stack size
+    770523  page reclaims
+       100  page faults
+         0  swaps
+         0  block input operations
+         0  block output operations
+         0  messages sent
+         0  messages received
+        14  signals received
+       413  voluntary context switches
+     27159  involuntary context switches

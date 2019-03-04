@@ -1,0 +1,210 @@
+WARNING: An illegal reflective access operation has occurred
+WARNING: Illegal reflective access by org.python.core.PySystemState (file:/Users/zhangzhicheng/jython2.7.0/jython.jar) to method java.io.Console.encoding()
+WARNING: Please consider reporting this to the maintainers of org.python.core.PySystemState
+WARNING: Use --illegal-access=warn to enable warnings of further illegal reflective access operations
+WARNING: All illegal access operations will be denied in a future release
+agggtaaa|tttaccct 128
+[cgt]gggtaaa|tttaccc[acg] 0
+a[act]ggtaaa|tttacc[agt]t 0
+ag[act]gtaaa|tttac[agt]ct 0
+agg[act]taaa|ttta[agt]cct 128
+aggg[acg]aaa|ttt[cgt]ccct 0
+agggt[cgt]aa|tt[acg]accct 0
+agggta[cgt]a|t[acg]taccct 0
+agggtaa[cgt]|[acg]ttaccct 256
+
+1280000
+1280000
+1708544
+real         2.60
+user         5.82
+sys          0.29
+ 279134208  maximum resident set size
+         0  average shared memory size
+         0  average unshared data size
+         0  average unshared stack size
+     83563  page reclaims
+         5  page faults
+         0  swaps
+         0  block input operations
+         0  block output operations
+         0  messages sent
+         0  messages received
+        10  signals received
+       165  voluntary context switches
+      8495  involuntary context switches
+WARNING: An illegal reflective access operation has occurred
+WARNING: Illegal reflective access by org.python.core.PySystemState (file:/Users/zhangzhicheng/jython2.7.0/jython.jar) to method java.io.Console.encoding()
+WARNING: Please consider reporting this to the maintainers of org.python.core.PySystemState
+WARNING: Use --illegal-access=warn to enable warnings of further illegal reflective access operations
+WARNING: All illegal access operations will be denied in a future release
+agggtaaa|tttaccct 256
+[cgt]gggtaaa|tttaccc[acg] 0
+a[act]ggtaaa|tttacc[agt]t 0
+ag[act]gtaaa|tttac[agt]ct 0
+agg[act]taaa|ttta[agt]cct 256
+aggg[acg]aaa|ttt[cgt]ccct 0
+agggt[cgt]aa|tt[acg]accct 0
+agggta[cgt]a|t[acg]taccct 0
+agggtaa[cgt]|[acg]ttaccct 512
+
+2560000
+2560000
+3417088
+real         3.27
+user         6.63
+sys          0.31
+ 285437952  maximum resident set size
+         0  average shared memory size
+         0  average unshared data size
+         0  average unshared stack size
+     85089  page reclaims
+         0  page faults
+         0  swaps
+         0  block input operations
+         0  block output operations
+         0  messages sent
+         0  messages received
+        11  signals received
+       130  voluntary context switches
+      9610  involuntary context switches
+WARNING: An illegal reflective access operation has occurred
+WARNING: Illegal reflective access by org.python.core.PySystemState (file:/Users/zhangzhicheng/jython2.7.0/jython.jar) to method java.io.Console.encoding()
+WARNING: Please consider reporting this to the maintainers of org.python.core.PySystemState
+WARNING: Use --illegal-access=warn to enable warnings of further illegal reflective access operations
+WARNING: All illegal access operations will be denied in a future release
+agggtaaa|tttaccct 512
+[cgt]gggtaaa|tttaccc[acg] 0
+a[act]ggtaaa|tttacc[agt]t 0
+ag[act]gtaaa|tttac[agt]ct 0
+agg[act]taaa|ttta[agt]cct 512
+aggg[acg]aaa|ttt[cgt]ccct 0
+agggt[cgt]aa|tt[acg]accct 0
+agggta[cgt]a|t[acg]taccct 0
+agggtaa[cgt]|[acg]ttaccct 1024
+
+5120000
+5120000
+6834176
+real         3.90
+user         7.70
+sys          0.32
+ 362008576  maximum resident set size
+         0  average shared memory size
+         0  average unshared data size
+         0  average unshared stack size
+    102970  page reclaims
+         0  page faults
+         0  swaps
+         0  block input operations
+         0  block output operations
+         0  messages sent
+         0  messages received
+        15  signals received
+        35  voluntary context switches
+      9421  involuntary context switches
+WARNING: An illegal reflective access operation has occurred
+WARNING: Illegal reflective access by org.python.core.PySystemState (file:/Users/zhangzhicheng/jython2.7.0/jython.jar) to method java.io.Console.encoding()
+WARNING: Please consider reporting this to the maintainers of org.python.core.PySystemState
+WARNING: Use --illegal-access=warn to enable warnings of further illegal reflective access operations
+WARNING: All illegal access operations will be denied in a future release
+agggtaaa|tttaccct 1024
+[cgt]gggtaaa|tttaccc[acg] 0
+a[act]ggtaaa|tttacc[agt]t 0
+ag[act]gtaaa|tttac[agt]ct 0
+agg[act]taaa|ttta[agt]cct 1024
+aggg[acg]aaa|ttt[cgt]ccct 0
+agggt[cgt]aa|tt[acg]accct 0
+agggta[cgt]a|t[acg]taccct 0
+agggtaa[cgt]|[acg]ttaccct 2048
+
+10240000
+10240000
+13668352
+real         5.51
+user         9.78
+sys          0.42
+ 522604544  maximum resident set size
+         0  average shared memory size
+         0  average unshared data size
+         0  average unshared stack size
+    143625  page reclaims
+         0  page faults
+         0  swaps
+         0  block input operations
+         0  block output operations
+         0  messages sent
+         0  messages received
+        26  signals received
+        16  voluntary context switches
+     11498  involuntary context switches
+WARNING: An illegal reflective access operation has occurred
+WARNING: Illegal reflective access by org.python.core.PySystemState (file:/Users/zhangzhicheng/jython2.7.0/jython.jar) to method java.io.Console.encoding()
+WARNING: Please consider reporting this to the maintainers of org.python.core.PySystemState
+WARNING: Use --illegal-access=warn to enable warnings of further illegal reflective access operations
+WARNING: All illegal access operations will be denied in a future release
+agggtaaa|tttaccct 2048
+[cgt]gggtaaa|tttaccc[acg] 0
+a[act]ggtaaa|tttacc[agt]t 0
+ag[act]gtaaa|tttac[agt]ct 0
+agg[act]taaa|ttta[agt]cct 2048
+aggg[acg]aaa|ttt[cgt]ccct 0
+agggt[cgt]aa|tt[acg]accct 0
+agggta[cgt]a|t[acg]taccct 0
+agggtaa[cgt]|[acg]ttaccct 4096
+
+20480000
+20480000
+27336704
+real         9.03
+user        14.41
+sys          0.70
+1138589696  maximum resident set size
+         0  average shared memory size
+         0  average unshared data size
+         0  average unshared stack size
+    291822  page reclaims
+         0  page faults
+         0  swaps
+         0  block input operations
+         0  block output operations
+         0  messages sent
+         0  messages received
+        34  signals received
+       157  voluntary context switches
+     14521  involuntary context switches
+WARNING: An illegal reflective access operation has occurred
+WARNING: Illegal reflective access by org.python.core.PySystemState (file:/Users/zhangzhicheng/jython2.7.0/jython.jar) to method java.io.Console.encoding()
+WARNING: Please consider reporting this to the maintainers of org.python.core.PySystemState
+WARNING: Use --illegal-access=warn to enable warnings of further illegal reflective access operations
+WARNING: All illegal access operations will be denied in a future release
+agggtaaa|tttaccct 4096
+[cgt]gggtaaa|tttaccc[acg] 0
+a[act]ggtaaa|tttacc[agt]t 0
+ag[act]gtaaa|tttac[agt]ct 0
+agg[act]taaa|ttta[agt]cct 4096
+aggg[acg]aaa|ttt[cgt]ccct 0
+agggt[cgt]aa|tt[acg]accct 0
+agggta[cgt]a|t[acg]taccct 0
+agggtaa[cgt]|[acg]ttaccct 8192
+
+40960000
+40960000
+54673408
+real        15.90
+user        22.05
+sys          0.92
+1786650624  maximum resident set size
+         0  average shared memory size
+         0  average unshared data size
+         0  average unshared stack size
+    452402  page reclaims
+         0  page faults
+         0  swaps
+         0  block input operations
+         0  block output operations
+         0  messages sent
+         0  messages received
+        48  signals received
+       114  voluntary context switches
+     17519  involuntary context switches

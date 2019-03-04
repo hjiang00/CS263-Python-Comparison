@@ -1,0 +1,54 @@
+100000
+OK
+300000
+OK
+500000
+OK
+700000
+OK
+900000
+OK
+1100000
+OK
+System time:  0.025730862
+User time:  0.549565184
+CPU time:  0.575296046
+Real time:  0.582715034485
+Memory usage:  8929280 Byte
+
+
+System time:  0.035828044
+User time:  1.905902848
+CPU time:  1.941730892
+Real time:  1.96926116943
+Memory usage:  15405056 Byte
+
+
+System time:  0.05073648
+User time:  3.06517248
+CPU time:  3.11590896
+Real time:  3.15140199661
+Memory usage:  22011904 Byte
+
+
+System time:  0.05028668
+User time:  3.801103616
+CPU time:  3.851390296
+Real time:  3.87372493744
+Memory usage:  28450816 Byte
+
+
+System time:  0.04712778
+User time:  4.833515008
+CPU time:  4.880642788
+Real time:  4.89892077446
+Memory usage:  35008512 Byte
+
+
+System time:  0.050009916
+User time:  5.88544768
+CPU time:  5.935457596
+Real time:  5.95443797112
+Memory usage:  41361408 Byte
+
+

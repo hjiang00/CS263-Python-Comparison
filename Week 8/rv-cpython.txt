@@ -1,0 +1,42 @@
+System time:  0.002266863
+User time:  0.001786489
+CPU time:  0.004053352
+Real time:  0.0478789806366
+Memory usage:  1155072 Byte
+
+
+System time:  0.002320347
+User time:  0.001800274
+CPU time:  0.004120621
+Real time:  0.0558099746704
+Memory usage:  1159168 Byte
+
+
+System time:  0.001844014
+User time:  0.001548498
+CPU time:  0.003392512
+Real time:  0.0777060985565
+Memory usage:  1146880 Byte
+
+
+System time:  0.001950784
+User time:  0.001692147
+CPU time:  0.003642931
+Real time:  0.117970943451
+Memory usage:  1150976 Byte
+
+
+System time:  0.001826318
+User time:  0.001582137
+CPU time:  0.003408455
+Real time:  0.193419933319
+Memory usage:  1134592 Byte
+
+
+System time:  0.002313769
+User time:  0.001554289
+CPU time:  0.003868058
+Real time:  0.350368022919
+Memory usage:  1134592 Byte
+
+
