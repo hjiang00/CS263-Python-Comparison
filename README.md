@@ -45,4 +45,10 @@
 	4. Use memory_profile to test memory.
 	5. Use cProfile to get time.
 	6. Start with Cpython, pypy, and then the Jython, IronPython and Cython.
+   ## Week 8 && Final:
+   	In week 8 and the rest weeks of this quarter, we decide to compare CPython, PyPy, Jython and Nuitka. We do not choose IronPython since it does not surpport very well on Mac OS. We test 11 algorithms among four different interpreters or compiler, and we test these algorithms with fixed inputs as well as multiple inputs. 
+	In addition, we write a script file to parse all the testing output txt files and generate associated plots. Then we could analyze and conduct comparison with these data. 
+	Finally, we complete presentation slides as well as final project report.
        
+## Project setup:
+	1.
