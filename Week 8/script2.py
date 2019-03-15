@@ -6,7 +6,7 @@ from memory_profiler import profile
 
 #@profile
 def test_in_python(input):
-	log = open('pi-pypy-test.txt', 'a')
+	log = open('pi-pypy-terminal.txt', 'a')
 	sub_thread_time = subprocess.Popen("/usr/bin/time -lp pypy pidigits-jython.py " + input, shell = True, creationflags =0, stdout = log, stderr = log)
 	#sub_thread_time = subprocess.Popen("/usr/bin/time -lp " + input, shell = True, creationflags =0, stdout = log, stderr = log)
 	#Mem info
